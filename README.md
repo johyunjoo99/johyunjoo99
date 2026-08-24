@@ -18,4 +18,4 @@
 
 ## Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johyunjoo99&layout=compact&langs_count=6)](https://github.com/johyunjoo99)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johyunjoo99&layout=donut&langs_count=6)
