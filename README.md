@@ -9,6 +9,9 @@
 
 ## Repositories
 
+**react-portfolio**  
+  React 기반 웹 퍼블리셔 포트폴리오 개발
+  
 **react-study**  
   React 학습 및 실습
 
@@ -21,4 +24,4 @@
 
 ## Languages
 
-HTML · CSS · SCSS · JavaScript · React
+HTML5 · CSS3 · SCSS · JavaScript · React
