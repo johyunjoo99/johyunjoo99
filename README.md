@@ -18,9 +18,6 @@
 **JHJ-portfolio**  
   웹 퍼블리셔 포트폴리오 제작
 
-//**JHJ-portfolio-ai**  
-//AI를 활용한 포트폴리오 개발 및 학습
-
 
 ## Languages
 
